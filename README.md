@@ -35,3 +35,4 @@ print("Number of columns:",len(df.axes[1]))
 ![1](https://github.com/vasanth0908/Read-from-CSV/assets/122000018/09497023-6f27-44b3-af87-f8a08292a6e5)
 
 ## RESULT:
+Thus the program is written to copy the contents from one file to another file.
