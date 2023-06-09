@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+To write a python program for copying the contents from one file to another file.
 ## ALGORITHM:
 ### Step 1:
 Import pandas module as pd.
